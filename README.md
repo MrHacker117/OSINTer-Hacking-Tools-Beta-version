@@ -22,3 +22,15 @@ In the next update, BETA 4, we plan to add the following hacking and OSINT featu
 5. **Collecting data from social networks**: Adding the ability to collect information from various social networks such as Facebook, Twitter, LinkedIn and others. This will help you create goal profiles and analyze their activity.
 
 If you have any questions or would like to cooperate with us in the development of the program, do not hesitate to contact us by e-mail: ulevaskevic@gmail.com .
+
+Screenshots:
+![Снимок экрана 2024-04-08 234420](https://github.com/MrHacker117/OSINTer-Hacking-Tools-Beta-version/assets/166434848/c8bee5ec-f0b4-4c65-bfa3-d507a9d44483)
+![Снимок экрана 2024-04-08 234444](https://github.com/MrHacker117/OSINTer-Hacking-Tools-Beta-version/assets/166434848/dd5bb2c2-5012-4509-8184-888c8b6c2f4b)
+![Снимок экрана 2024-04-08 234635](https://github.com/MrHacker117/OSINTer-Hacking-Tools-Beta-version/assets/166434848/21d12f2a-4992-47e9-8e93-a1f6a595d7e4)
+![Снимок экрана 2024-04-08 234700](https://github.com/MrHacker117/OSINTer-Hacking-Tools-Beta-version/assets/166434848/36b33852-90d7-408d-b4e9-c36ee616ad54)
+![Снимок экрана 2024-04-08 234716](https://github.com/MrHacker117/OSINTer-Hacking-Tools-Beta-version/assets/166434848/c61e99bc-7c94-4559-afde-a7838a6304da)
+![Снимок экрана 2024-04-08 234754](https://github.com/MrHacker117/OSINTer-Hacking-Tools-Beta-version/assets/166434848/3b59f586-f4a0-4c16-aaf4-969b7dcfeebb)
+
+
+
+
