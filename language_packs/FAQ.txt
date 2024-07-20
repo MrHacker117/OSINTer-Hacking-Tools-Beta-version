@@ -1,0 +1,35 @@
+# FAQ for Multi-Function Extractor
+
+## Translation Support
+
+### Which versions support translation?
+Translation support is available exclusively in version 1.5 Syndicate and later.
+
+### How to apply translations?
+To apply translations in the Multi-Function Extractor, follow these steps:
+
+1. **Locate the Translation Files:**
+   Ensure you have the translation files in JSON format. The translation files should be named according to the language they support, for example:
+   - `translations_en.json` for English
+   - `translations_ru.json` for Russian
+
+2. **Place Translation Files:**
+   Place the translation files in the following directory: "C:\Users\"your-username"\O&HT\language_packs"
+
+3. **Settings Configuration:**
+- Open the application.
+- Navigate to the `Settings` menu by clicking on `Settings` in the top menu bar.
+- In the `Settings` dialog, select the desired language from the `Language` dropdown menu.
+- Click `Save` to apply the changes.
+
+4. **Restart the Application:**
+Restart the application to ensure that the changes take effect.
+
+### Troubleshooting Translation Issues
+- **Translation File Not Found:** Ensure that the translation files are placed in the correct directory.
+- **Incorrect Translations:** Verify that the JSON structure of the translation files is correct.
+- **Application Not Responding:** If the application does not respond after applying translations, revert to the default language and verify the integrity of the translation files.
+
+### Contact for Support
+For any issues or further assistance, please contact:
+- Email: ulevaskevic@gmail.com
