@@ -11,7 +11,7 @@ All actions that you perform using this program are carried out at your own risk
 # OSINTer & Hacking Tools 1.5 Syndicate
 Coming soon!
 
-If you have any questions or would like to cooperate with us in the development of the program, do not hesitate to contact us by e-mail:mshacker531@gmail.com .
+If you have any questions or would like to cooperate with us in the development of the program, do not hesitate to contact us by e-mail:mshacker531@gmail.com.
 
 ## Screenshots:
 ![Снимок экрана 2024-04-08 234420](https://github.com/MrHacker117/OSINTer-Hacking-Tools-Beta-version/assets/166434848/c8bee5ec-f0b4-4c65-bfa3-d507a9d44483)
