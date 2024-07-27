@@ -13,7 +13,7 @@ Coming soon!
 
 If you have any questions or would like to cooperate with us in the development of the program, do not hesitate to contact us by e-mail:mshacker531@gmail.com.
 
-#Demo Video (Bugs are present, but we fixed an error in the scan of the face):
+# Demo Video (Bugs are present, but we fixed an error in the scan of the face):
 https://github.com/user-attachments/assets/9b0accb1-b329-44e6-b7b2-fea264bdd0ae
 
 
